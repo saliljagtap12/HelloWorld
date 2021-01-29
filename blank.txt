@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90FB-C176
+
+ Directory of C:\Users\salil\Desktop\JavaProject
+
+29-01-2021  06:27    <DIR>          .
+29-01-2021  06:27    <DIR>          ..
+29-01-2021  06:27                 0 blank.txt
+29-01-2021  06:22               674 Hello.class
+28-01-2021  07:11               151 Hello.java
+28-01-2021  08:20               445 readme.txt
+               4 File(s)          1,270 bytes
+               2 Dir(s)  635,250,900,992 bytes free
